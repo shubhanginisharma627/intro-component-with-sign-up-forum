@@ -126,8 +126,7 @@ body{
     transform: translateY(4px);
   }
  button {
-    width: 100%;
-    padding: 20px 70px ;
+   
     background-color: hsl(154, 59%, 51%);
     border-radius: 5px;
     cursor: pointer;
