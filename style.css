@@ -8,7 +8,7 @@
 }
 
 body{
-    background-image: url("images/bg-intro-desktop.png");
+    background-image: url("bg-intro-desktop.png");
     background-color: hsl(0, 100%, 74%) ;
     background-blend-mode: multiply;
     font-family: 'Poppins', sans-serif;
@@ -141,7 +141,11 @@ body{
   }
   @media(max-width:375px){
       .container{
+          
           flex-direction: column;
+      }
+      body{
+          background-image: url("bg-intro-mobile.png");
       }
       h1,.fell{
           text-align: center;
