@@ -89,7 +89,7 @@ body{
       border-radius: 10px;
       color: #fff;
       font-weight: 500;
-       box-shadow: 5px 10px hsl(246, 25%, 77%);
+       box-shadow: 5px 10px #D55E5E;
   }
   .shell{
       background-color: #fff;
